@@ -84,7 +84,7 @@ Image preprocessing and augmentation were performed using `ImageDataGenerator` w
 ---
 
 ## 🔄 Related Project
-👉 Transfer Learning Version (VGG16): [Add Link Here]
+👉 Transfer Learning Version (VGG16): [https://github.com/AjinkyaKhalikar/cats-dog-classification-vgg16.git]
 
 ---
 
